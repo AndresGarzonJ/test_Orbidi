@@ -1,0 +1,3 @@
+virtualenv -p  C:\Users\Home\AppData\Local\Programs\Python\Python37\python.exe  venv
+.\venv\Scripts\activate
+
